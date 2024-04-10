@@ -24,23 +24,23 @@ git clone https://github.com/Andres-ann/login-mean.git
 
 Para el front-end:
 
-    cd frontend
-    npm install
+cd frontend
+npm install
 
 Para el back-end:
 
-    cd backend
-    npm install
+cd backend
+npm install
 
 3. Ejecuta el servidor back-end:
 
-   cd backend
-   npm start
+cd backend
+npm start
 
 4. Ejecuta la aplicación front-end:
 
-   cd frontend
-   npm start
+cd frontend
+npm start
 
 ## Tecnologías Utilizadas
 
